@@ -10,4 +10,4 @@ for item in range(50):
     time.sleep(0.8)
     print ('LED off')
     GPIO.output(18,GPIO.LOW)
-    time.sleep(0.8)
+    time.sleep(0.8) 
